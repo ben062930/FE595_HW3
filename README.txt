@@ -1,7 +1,7 @@
 # FE595_HW3
-HW.py is a file that compiles all scripts.
+HW3.py is a file that compiles all scripts for one-time use.
 
-There are 3 seperate seperated scripts:
+There are 3 seperated scripts:
 
 1. The first script is called "wrap_business". 
 The purpose of this function is to split business names and business purposes into two different lists.
