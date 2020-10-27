@@ -3,7 +3,7 @@ HW.py is a file that compiles all scripts.
 
 There are 3 seperate seperated scripts:
 
-1. The first function is called "wrap_business". 
+1. The first script is called "wrap_business". 
 The purpose of this function is to split business names and business purposes into two different lists.
 One output list is called “name” which includes all business names and the other one is called “purpose” which includes all business purposes.
 The input is the variable by using “open” function. It is a TexIOWrapper result. The output type is a tuple.
