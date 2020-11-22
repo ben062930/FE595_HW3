@@ -1,10 +1,3 @@
-import math
-import pandas as pd
-import numpy as np
-import string
-import nltk
-from nltk import tokenize
-from nltk.corpus import wordnet
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import sys
