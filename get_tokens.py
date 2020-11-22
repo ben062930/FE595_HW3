@@ -1,7 +1,5 @@
 import pandas as pd
 import nltk
-from nltk import tokenize
-from nltk.corpus import wordnet
 import sys
 sys.path.append("/Users/jiefudong/Desktop/Jeff/SIT/FA/FE595/HW3/")
 import wrap_business
