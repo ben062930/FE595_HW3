@@ -17,5 +17,5 @@ def get_tokens(details):
         print("The 10 most common words/tokens in the description of the companies are:\n",result[0:10])
 
 if __name__ == "__main__":
-    business_purpose = wrap_business.business_purpose
-    get_tokens(business_purpose)
+    # business_purpose = wrap_business.business_purpose
+    get_tokens(wrap_business.df['Business_purpose'].values.tolist())
