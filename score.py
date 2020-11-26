@@ -35,4 +35,6 @@ def score(sentence):
 
 if __name__ == "__main__":
     business_purpose = wrap_business.business_purpose
-    score(business_purpose)
+
+    # score(business_purpose)
+    score(wrap_business.df['Business_purpose'].values.tolist())
